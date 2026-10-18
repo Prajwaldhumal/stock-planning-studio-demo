@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.streamlit/secrets.toml
+data/uploads/*
+data/versions/*
+data/planning_history.sqlite
+!data/uploads/.gitkeep
+!data/versions/.gitkeep

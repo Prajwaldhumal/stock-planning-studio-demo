@@ -1,0 +1,7 @@
+{
+  "transit_months": 2,
+  "target_coverage_months": 1,
+  "rounding_multiple": 1,
+  "recommendation_method": "Coverage-based draft",
+  "show_calculation_details": true
+}
